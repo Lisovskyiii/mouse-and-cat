@@ -1,0 +1,16 @@
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\bin\Debug\net5.0\mouse and cat.exe
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\bin\Debug\net5.0\mouse and cat.deps.json
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\bin\Debug\net5.0\mouse and cat.runtimeconfig.json
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\bin\Debug\net5.0\mouse and cat.runtimeconfig.dev.json
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\bin\Debug\net5.0\mouse and cat.dll
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\bin\Debug\net5.0\ref\mouse and cat.dll
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\bin\Debug\net5.0\mouse and cat.pdb
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\obj\Debug\net5.0\mouse and cat.csproj.AssemblyReference.cache
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\obj\Debug\net5.0\mouse and cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\obj\Debug\net5.0\mouse and cat.AssemblyInfoInputs.cache
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\obj\Debug\net5.0\mouse and cat.AssemblyInfo.cs
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\obj\Debug\net5.0\mouse and cat.csproj.CoreCompileInputs.cache
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\obj\Debug\net5.0\mouse and cat.dll
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\obj\Debug\net5.0\ref\mouse and cat.dll
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\obj\Debug\net5.0\mouse and cat.pdb
+C:\Users\KIRILL\source\repos\mouse and cat\mouse and cat\obj\Debug\net5.0\mouse and cat.genruntimeconfig.cache
